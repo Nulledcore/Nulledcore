@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nulledcore</h1>
-- 🔭 I’m currently working on **Nothing**
+
+- 🔭 I’m currently working on **Java projects**
 
 - 🌱 I’m currently learning **Java**
 
