@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Anti-Cheat Projects for different games**
 
-- 💬 Ask me about **LUA, Skeet/GS API**
+- 💬 Ask me about **LUA, C#, Java, HTML, CSS**
 
 - 📫 How to reach me **nulledcoreofficial@gmail.com**
 
